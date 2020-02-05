@@ -1,0 +1,99 @@
+{
+    "peaks": [
+        {
+            "countyname": "Akershus",
+            "peakname": "Fjellsjøkampen",
+            "height": 812
+        },
+        {
+            "countyname": "Buskerud",
+            "peakname": "Folarskardnuten",
+            "height": 1933
+        },
+        {
+            "countyname": "Oppland",
+            "peakname": "Galdhøpiggen",
+            "height": 2469
+        },
+        {
+            "countyname": "Telemark",
+            "peakname": "Gaustatoppen",
+            "height": 1883
+        },
+        {
+            "countyname": "Hordaland",
+            "peakname": "Hardangerjøkulen",
+            "height": 1861
+        },
+        {
+            "countyname": "Nord-Trøndelag",
+            "peakname": "Jetnamsklumpen",
+            "height": 1512
+        },
+        {
+            "countyname": "Troms",
+            "peakname": "Jiehkkevárri",
+            "height": 1834
+        },
+        {
+            "countyname": "Oslo",
+            "peakname": "Kjerkeberget",
+            "height": 630
+        },
+        {
+            "countyname": "Nordland",
+            "peakname": "Oksskolten",
+            "height": 1915
+        },
+        {
+            "countyname": "Møre og Romsdal",
+            "peakname": "Pyttegga",
+            "height": 1999
+        },
+        {
+            "countyname": "Hedmark",
+            "peakname": "Rondslottet",
+            "height": 2178
+        },
+        {
+            "countyname": "Østfold",
+            "peakname": "Slavasshøgda",
+            "height": 336
+        },
+        {
+            "countyname": "Sogn og Fjordane",
+            "peakname": "Store Skagastølstinden",
+            "height": 2405
+        },
+        {
+            "countyname": "Sør-Trøndelag",
+            "peakname": "Storskrymten",
+            "height": 1985
+        },
+        {
+            "countyname": "Aust-Agder",
+            "peakname": "Sæbyggjenuten",
+            "height": 1507
+        },
+        {
+            "countyname": "Vest-Agder",
+            "peakname": "Urdalsknuten",
+            "height": 1433
+        },
+        {
+            "countyname": "Rogaland",
+            "peakname": "Vassdalseggi",
+            "height": 1658
+        },
+        {
+            "countyname": "Vestfold",
+            "peakname": "Vestfjellet",
+            "height": 634
+        },
+        {
+            "countyname": "Finnmark",
+            "peakname": "Øksfjordjøkelen",
+            "height": 1191
+        }
+    ]
+}
